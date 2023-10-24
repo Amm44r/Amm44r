@@ -1,19 +1,17 @@
 Hi there My name is Ammaar Khan👋
 
 I am a front end developer based in Melbourne, Australia
+<br/>
 
+### Skills
 
-Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
+<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,figma,blender)](https://skillicons.dev)
-<!--
-**Amm44r/Amm44r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Socials
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on front end projects
-- 📫 How to reach me: ammaarkhan2021@gmail.com
--->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohamed-khan-3a274a256/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
