@@ -3,7 +3,7 @@
 I am a front end developer based in Melbourne, Australia
 
 
-<h1 style="color:purple;">Skills</h1>
+<h2 style="color:purple;">Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,figma,blender)](https://skillicons.dev)
 <!--
