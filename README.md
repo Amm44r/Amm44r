@@ -1,4 +1,4 @@
-<h1 style="color:purple;">Hi there My name is Ammaar Khan👋</h1>
+Hi there My name is Ammaar Khan👋
 
 I am a front end developer based in Melbourne, Australia
 
