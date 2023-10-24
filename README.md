@@ -3,7 +3,7 @@
 I am a front end developer based in Melbourne, Australia
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,tailwind,figma,blender)](https://skillicons.dev)
 <!--
 **Amm44r/Amm44r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
