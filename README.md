@@ -2,8 +2,8 @@
 
 I am a front end developer based in Melbourne, Australia
 
-# text in blue
-Skills
+
+<h1 style="color:purple;">Skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,figma,blender)](https://skillicons.dev)
 <!--
