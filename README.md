@@ -1,9 +1,9 @@
-### Hi there My name is Ammaar Khan👋
+<h1 style="color:purple;">Hi there My name is Ammaar Khan👋</h1>
 
 I am a front end developer based in Melbourne, Australia
 
 
-<h2 style="color:purple;">Skills</h2>
+<h4 style="color:purple;">Skills</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,figma,blender)](https://skillicons.dev)
 <!--
