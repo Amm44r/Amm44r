@@ -1,6 +1,6 @@
 Hi there My name is Ammaar Khan👋
 
-I am a front end developer based in Melbourne, Australia
+I am a web developer and designer based in Melbourne, Australia
 <br/>
 
 ### Skills
